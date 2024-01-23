@@ -1,0 +1,18 @@
+
+.program-image-card1{
+    background-image:url('./Images/2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.program-image-card2{
+    background-image: url('./Images/3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.program-image-card3{
+    background-image: url('./Images/4.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
